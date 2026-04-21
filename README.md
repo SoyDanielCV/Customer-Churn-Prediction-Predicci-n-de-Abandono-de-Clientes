@@ -83,7 +83,7 @@ This imbalance makes accuracy misleading, so F1-score was prioritized.
 
 ---
 
-## 🇲🇽 Español
+## ES Español
 
 ### 📌 Descripción del Proyecto
 La pérdida de clientes (churn) es uno de los principales problemas en la banca. Retener clientes existentes es más barato que adquirir nuevos.
